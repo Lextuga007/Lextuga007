@@ -6,7 +6,7 @@ I work as a Senior Information Analyst at Nottinghamshire Healthcare NHS Foundat
 
 I'm a Fellow of the [NHS-R Community](https://nhsrcommunity.com/) and I am the Non-Exec Director at [AphA](https://www.aphanalysts.org/) (Assoc Professional Healthcare Analysts). 
 
-I have a particular interest in Ethics having studied Philosophy and some of my thoughts on this, along with technical blogs, can be found on my blog [site](https://lextuga007.github.io/PhilosopherAnalyst/) and I'm also working on adapting the [Hugo site](https://upbeat-lumiere-00de50.netlify.app/) which I learned about at the rstudio::global(2021) conference as a part of my Diversity scholarship.
+I have a particular interest in Ethics having studied Philosophy and some of my thoughts on this, along with technical blogs, can be found on my blog [site](https://lextuga007.github.io/PhilosopherAnalyst/) and I'm also working on a Huge Apéro themed [blog website](https://philosopher-analyst.netlify.app/) which I learned about at the rstudio::global(2021) conference as a part of my Diversity scholarship.
 
 <!--
 **Lextuga007/Lextuga007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
