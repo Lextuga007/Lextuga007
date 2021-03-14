@@ -8,6 +8,8 @@ I'm a Fellow of the [NHS-R Community](https://nhsrcommunity.com/) and I am the N
 
 I have a particular interest in Ethics having studied Philosophy and some of my thoughts on this, along with technical blogs, can be found on my blog [site](https://lextuga007.github.io/PhilosopherAnalyst/) and I'm also working on a Huge Apéro themed [blog website](https://philosopher-analyst.netlify.app/) which I learned about at the rstudio::global(2021) conference as a part of my Diversity scholarship.
 
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 <!--
 **Lextuga007/Lextuga007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
