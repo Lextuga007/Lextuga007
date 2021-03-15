@@ -1,4 +1,5 @@
-<h5> <img alt="love" src="http://ForTheBadge.com/images/badges/built-with-love.svg"/> <img alt="love" src="https://badges.frapsoft.com/os/v1/open-source.png?v=103"/> </h5>
+<img alt="love" src="http://ForTheBadge.com/images/badges/built-with-love.svg"/> <img alt="love" src="https://badges.frapsoft.com/os/v1/open-source.png?v=103"/><br> 
+<br>
 <p>
 <a target="_blank"><img alt="SQL" src="https://img.shields.io/badge/-SQL-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"/></a> 
 <a target="_blank"><img alt="R" src="https://img.shields.io/badge/R-%2312100E.svg?logo=r&style=for-the-badge&logoColor=blue"/></a> 
@@ -23,7 +24,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=11788441" /></a>
 
 ## I'm currently working on:
 
-<img src="img/noun_analysis_853968.png" alt="Analysis" width="40" height="40"/> My main project area at the moment is Mortality Surveillance which involves creating and maintaining a dataset of all the trust's patients from across several clinical systems including mental health and general health services. 
+<img src="img/noun_analysis_3166081.png" alt="Analysis" width="40" height="40"/> My main project area at the moment is Mortality Surveillance which involves creating and maintaining a dataset of all the trust's patients from across several clinical systems including mental health and general health services. 
 
 <img src="img/noun_Venn Diagram_244898.png" alt="Venn Diagram" width="40" height="40"/> Specifically I am building venn diagrams to show the overlap in patient's open referrals to services. 
 
@@ -49,7 +50,7 @@ I am the Non-Exec Director at [<img src="img/Apha-Logo.svg" alt="Association of 
 
 <!--
 Attributions: 
-analysis by Aneeque Ahmed from the Noun Project
+analysis by Flatart from the Noun Project
 presentation by Garrett Knoll from the Noun Project
 thinker by Gilbert Bages from the Noun Project
 Venn Diagram by Josh Sorosky from the Noun Project
