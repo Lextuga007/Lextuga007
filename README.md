@@ -1,10 +1,14 @@
-<img alt="love" src="http://ForTheBadge.com/images/badges/built-with-love.svg"/> <img alt="love" src="https://badges.frapsoft.com/os/v1/open-source.png?v=103"/><br> 
+<img alt="love" src="https://badges.frapsoft.com/os/v1/open-source.png?v=103"/>
+<a href="https://philosopher-analyst.netlify.app/" target="_blank"><img alt="Blog" src=https://img.shields.io/badge/blog-philosopher--analyst-lightgrey" /></a> 
+
+<br> 
+<h5>Coding using...</h5>
 <br>
 <p>
 <a target="_blank"><img alt="SQL" src="https://img.shields.io/badge/-SQL-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"/></a> 
 <a target="_blank"><img alt="R" src="https://img.shields.io/badge/R-%2312100E.svg?logo=r&style=for-the-badge&logoColor=blue"/></a> 
 </p>
-<h5>Using:</h5>
+<h5>with these programs...</h5>
 <p>
 <a target="_blank"><img alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"/></a> 
 <a target="_blank"><img alt="R Studio" src="https://img.shields.io/badge/RStudio-%2312100E.svg?logo=rstudio&style=for-the-badge"/></a> 
@@ -46,7 +50,7 @@ I am the Non-Exec Director at [<img src="img/Apha-Logo.svg" alt="Association of 
 ✨ Nottingham University Hospitals Ethics Committee.
 </details>
 
-
+<img alt="love" src="http://ForTheBadge.com/images/badges/built-with-love.svg"/> 
 
 <!--
 Attributions: 
@@ -54,4 +58,12 @@ analysis by Flatart from the Noun Project
 presentation by Garrett Knoll from the Noun Project
 thinker by Gilbert Bages from the Noun Project
 Venn Diagram by Josh Sorosky from the Noun Project
+
+Badges from:
+
+https://github.com/Naereen/badges
+https://github.com/ellerbrock/open-source-badges/blob/master/README.md
+
+https://shields.io/category/build
+
 -->
