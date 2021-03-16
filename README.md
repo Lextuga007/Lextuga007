@@ -1,19 +1,28 @@
-[![CDU](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/CDU-data-science-team) [![Blog](https://img.shields.io/badge/blog-philosopher--analyst-yellowgreen)](https://philosopher-analyst.netlify.app/)
+<a href="https://github.com/CDU-data-science-team" target="_blank"><img alt="love"  src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github"/></a>
+<a href="https://philosopher-analyst.netlify.app/" target="_blank"><img alt="Blog" src=https://img.shields.io/badge/blog-philosopher--analyst-yellowgreen></a> 
+
 <br> 
 
-## Find me  {align=center}
+<h2 align="center">Find me</h2>
+<p align="center"><a 
+href="https://hexitime.com/" target="_blank"><img alt="Hexitime"
+src="https://img.shields.io/static/v1?label=hexitime&message=skill--exchange&color=blue"/></a> <a 
+href="https://twitter.com/Letxuga007" target="_blank"><img alt="Twitter" 
+src="https://img.shields.io/twitter/follow/Letxuga007" /></a> <a 
+href="mailto:zoe.turner2@notthc.nhs.uk" target="_blank"><img alt="Mail"
+src="https://img.shields.io/badge/-zoe.turner2@notthc.nhs.uk-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zoe.turner2@notthc.nhs.uk"/></a> <a 
+href="https://stackoverflow.com/users/11788441/zo%c3%ab-turner" target="_blank"><img alt="StackOverflow" 
+src="https://stackoverflow-badge.vercel.app/?userID=11788441" /></a> 
+</p>
 
-[![Hexitime](https://img.shields.io/static/v1?label=hexitime&message=skill--exchange&color=blue)](https://hexitime.com/)
-[![Twitter](https://img.shields.io/twitter/follow/Letxuga007)](https://twitter.com/Letxuga007)
-[![Email](https://img.shields.io/badge/-zoe.turner2@notthc.nhs.uk-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zoe.turner2@notthc.nhs.uk)](mailto:zoe.turner2@notthc.nhs.uk)
-[![Stackoverflow](https://stackoverflow-badge.vercel.app/?userID=11788441)](https://stackoverflow.com/users/11788441/zo%c3%ab-turner" target="_blank)
-
-## Coding using {align=center}
-
-[![SQL varchar(max)](https://img.shields.io/badge/Microsoft%20SQL%20Server-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge)](https://lextuga007.github.io/PhilosopherAnalyst/posts/2021-02-13-finding-sql-varcharmax/)
-[![RStudio Community New User of the month](https://img.shields.io/badge/RStudio-%2312100E.svg?logo=rstudio&style=for-the-badge)](https://community.rstudio.com/badges/44/new-user-of-the-month)
-[![Happy Git and GitHub for R](https://img.shields.io/badge/Git-%2312100E.svg?logo=git&style=for-the-badge)](https://happygitwithr.com/)
-[![](https://img.shields.io/badge/GitHub-black?logo=GitHub&style=for-the-badge)]()
+<h2 align="center">Coding using</h2>
+<p align="center">
+<a href="https://lextuga007.github.io/PhilosopherAnalyst/posts/2021-02-13-finding-sql-varcharmax/" target="_blank"><img alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"/></a> 
+<a href="https://community.rstudio.com/badges/44/new-user-of-the-month" target="_blank"><img alt="R Studio" src="https://img.shields.io/badge/RStudio-%2312100E.svg?logo=rstudio&style=for-the-badge"/></a> 
+<a target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-%2312100E.svg?logo=git&style=for-the-badge"/></a> 
+<a target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=GitHub&style=for-the-badge"/></a> 
+</p>
+</br>
 
 
 ## I'm currently working on:
