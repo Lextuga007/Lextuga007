@@ -1,6 +1,5 @@
 <a href="https://github.com/CDU-data-science-team" target="_blank"><img alt="love"  src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github"/></a>
-
-<a href="https://philosopher-analyst.netlify.app/" target="_blank"><img alt="Blog" src=https://img.shields.io/static/v1?label=blog&message=philosopher--analyst&color=2596be/></a> 
+<a href="https://philosopher-analyst.netlify.app/" target="_blank"><img alt="Blog" src=https://img.shields.io/badge/blog-philosopher--analyst-yellowgreen></a> 
 
 <br> 
 
