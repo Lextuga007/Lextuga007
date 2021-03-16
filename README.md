@@ -1,4 +1,6 @@
-<a href="https://github.com/CDU-data-science-team" target="_blank"><img alt="love"  src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github"/>
+<a href="https://github.com/CDU-data-science-team" target="_blank"><img alt="love"  src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github"/></a>
+
+<a href="https://philosopher-analyst.netlify.app/" target="_blank"><img alt="Blog" src=https://img.shields.io/static/v1?label=blog&message=philosopher--analyst&color=2596be/></a> 
 
 <br> 
 
@@ -46,12 +48,6 @@ I am the Non-Exec Director at [<img src="img/Apha-Logo.svg" alt="Association of 
 ✨ Nottingham University Hospitals Ethics Committee.
 </details>
 
-<br>
-<a 
-href="https://hexitime.com/" target="_blank"><img alt="love"
-src="http://ForTheBadge.com/images/badges/built-with-love.svg"/></a>
-
-<img alt="love" src="http://ForTheBadge.com/images/badges/built-with-love.svg"/> 
 
 
 ## Other repos to which I've contributed to:
@@ -76,5 +72,6 @@ https://github.com/Naereen/badges
 https://github.com/ellerbrock/open-source-badges/blob/master/README.md - not used
 https://github.com/anuraghazra/github-readme-stats
 https://shields.io/category/build
+
 
 -->
