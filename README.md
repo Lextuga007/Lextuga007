@@ -41,6 +41,7 @@ I am the Non-Exec Director at [<img src="img/Apha-Logo.svg" alt="Association of 
 
 <details>
   <summary><b><img src="img/noun_thinker_215431.png" alt="Philosophy" width="40" height="40"/> Other ethics groups I go to (click on arrow to extend) </b></summary>
+  
 ✨ [AphA Ethics group](https://www.aphanalysts.org/apha-events-and-training/)<br>
 ✨ [Data Ethics Group](https://github.com/very-good-science/data-ethics-club)
 <br>
