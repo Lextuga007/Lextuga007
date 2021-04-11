@@ -1,5 +1,6 @@
 <a href="https://github.com/CDU-data-science-team" target="_blank"><img alt="love"  src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github"/></a>
 <a href="https://philosopher-analyst.netlify.app/" target="_blank"><img alt="Blog" src=https://img.shields.io/badge/blog-philosopher--analyst-yellowgreen></a> 
+<a href="https://ethics-committee-resources.netlify.app/" target="_blank"><img alt="Ethics Resources" src=https://img.shields.io/badge/ethics-ethics--resources-green></a> 
 
 <br> 
 
@@ -31,7 +32,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=11788441" /></a>
 
 <img src="img/noun_Venn Diagram_244898.png" alt="Venn Diagram" width="40" height="40"/> Specifically I am building venn diagrams to show the overlap in patient's open referrals to services. 
 
-<img src="img/noun_presentation_82925.png" alt="Slides" width="40" height="40"/> I am also recoding the [<img src="img/NHSRLogo.png" alt="NHS-R Community" width="80" height="40"/>](https://nhsrcommunity.com/) Introduction to R and R Studio [Slides](https://philosopher-analyst.netlify.app/collection/) from pdf to xaringan.
+<img src="img/noun_presentation_82925.png" alt="Slides" width="40" height="40"/> I have now recoded all the [<img src="img/NHSRLogo.png" alt="NHS-R Community" width="80" height="40"/>](https://nhsrcommunity.com/) Introduction to R and R Studio [Slides](https://philosopher-analyst.netlify.app/collection/) from pdf to xaringan.
 
 ## My other interests are...
 
@@ -39,14 +40,16 @@ I'm a Fellow of the [<img src="img/NHSRLogo.png" alt="NHS-R Community" width="80
 
 I am the Non-Exec Director at [<img src="img/Apha-Logo.svg" alt="Association of Professional Healthcare Analysts" width="80" height="40"/>](https://www.aphanalysts.org/) and run the bi-monthly [Ethics Group](https://www.aphanalysts.org/apha-events-and-training/). 
 
+I will be co-chairing Nottinghamshire Healthcare NHS Foundation Trust's Ethics Committe as it moves from being Covid-19 specific to having a wider remit. To help share the resources I've accumulated relating to medical and data ethics I've created a [website](https://ethics-committee-resources.netlify.app/) using the [Hugo Apéro theme](https://github.com/hugo-apero/apero).
+
 <details>
-  <summary><b><img src="img/noun_thinker_215431.png" alt="Philosophy" width="40" height="40"/> Other ethics groups I go to (click on arrow to extend) </b></summary>
+  <summary><b><img src="img/noun_thinker_215431.png" alt="Philosophy" width="40" height="40"/> Other ethics groups I go to (click on arrow or words to extend) </b></summary>
   
 ✨ [AphA Ethics group](https://www.aphanalysts.org/apha-events-and-training/)<br>
 ✨ [Data Ethics Group](https://github.com/very-good-science/data-ethics-club)
 <br>
 ✨ [Data Science Campus Ethics Society Reading Group](https://datasciencecampus.github.io/ethics_society_reading_group/) <br>
-✨ Nottinghamshire Healthcare NHS Foundation Trust Ethics Committee   <br>
+✨ Nottinghamshire Healthcare NHS Foundation Trust Ethics Committee - [resources](https://ethics-committee-resources.netlify.app/)  <br>
 ✨ Nottingham University Hospitals Ethics Committee.
 </details>
 
