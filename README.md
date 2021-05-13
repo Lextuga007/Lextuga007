@@ -54,7 +54,7 @@ I will be co-chairing Nottinghamshire Healthcare NHS Foundation Trust's Ethics C
 </details>
 
 
-
+<!--
 ## Other repos to which I've contributed to:
 
 [![NHSRdatasets](https://github-readme-stats.vercel.app/api/pin/?username=nhs-r-community&repo=NHSRdatasets)](https://github.com/nhs-r-community/NHSRdatasets)
@@ -63,7 +63,7 @@ I will be co-chairing Nottinghamshire Healthcare NHS Foundation Trust's Ethics C
 
 [![Health Foundation Covid-19 Resources](https://github-readme-stats.vercel.app/api/pin/?username=HFAnalyticsLab&repo=COVID19_Resources)](https://github.com/HFAnalyticsLab/COVID19_Resources)
 
-<!--
+
 Attributions: 
 analysis by Flatart from the Noun Project
 presentation by Garrett Knoll from the Noun Project
