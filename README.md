@@ -28,24 +28,21 @@ src="https://stackoverflow-badge.vercel.app/?userID=11788441" /></a>
 
 ## I'm currently working on:
 
-<img src="img/noun_analysis_3166081.png" alt="Analysis" width="40" height="40"/> My main project area at the moment is Mortality Surveillance which involves creating and maintaining a dataset of all the trust's patients from across several clinical systems including mental health and general health services. 
+<img src="img/noun_analysis_3166081.png" alt="Analysis" width="40" height="40"/> I've taken over responsibility for packages in my team that get data from the SQL server and get 'tidied' into R. This work currently cannot be shared publicly but [Milan Wiedemann](https://github.com/milanwiedemann), who built the concepts within the package, has written about it in the [blog](https://cdu-data-science-team.github.io/team-blog/posts/2021-08-06-nottshcverse/) on the team website.
 
-<img src="img/noun_Venn Diagram_244898.png" alt="Venn Diagram" width="40" height="40"/> Specifically I am building venn diagrams to show the overlap in patient's open referrals to services. 
-
-<img src="img/noun_presentation_82925.png" alt="Slides" width="40" height="40"/> I have now recoded all the [<img src="img/NHSRLogo.png" alt="NHS-R Community" width="80" height="40"/>](https://nhsrcommunity.com/) Introduction to R and R Studio [Slides](https://philosopher-analyst.netlify.app/collection/) from pdf to xaringan.
+<img src="img/noun_presentation_82925.png" alt="Slides" width="40" height="40"/> I have now recoded all the [<img src="img/NHSRLogo.png" alt="NHS-R Community" width="80" height="40"/>](https://nhsrcommunity.com/) Introduction to R and R Studio [Slides](https://philosopher-analyst.netlify.app/collection/) from pdf to xaringan. I'm now looking to build a [learnr package](https://github.com/nhs-r-community/NHSRtraining) for this course and working through the [RStudio/Alison Hill's RMarkdown slides](https://github.com/rstudio-education/communicate-rmd-workshop) along with the [NHS-R Community workshop material](https://github.com/nhs-r-community/intro_rmd) and [YouTube video](https://www.youtube.com/watch?v=RaM6fgwMZIs) to deliver a [RMarkdown course](https://github.com/Lextuga007/rmd-workshop).
 
 ## My other interests are...
 
-I'm a Fellow of the [<img src="img/NHSRLogo.png" alt="NHS-R Community" width="80" height="40"/>](https://nhsrcommunity.com/) and I run the [introduction to R and R Studio training](https://nhsrcommunity.com/events/) for NHS and other public sector analysts every 3rd Wednesday of the month.
+I'm a Senior Fellow of the [<img src="img/NHSRLogo.png" alt="NHS-R Community" width="80" height="40"/>](https://nhsrcommunity.com/) and I run the [introduction to R and R Studio training](https://nhsrcommunity.com/events/) for NHS and other public sector analysts every 3rd Wednesday of the month.
 
 I am the Non-Exec Director at [<img src="img/Apha-Logo.svg" alt="Association of Professional Healthcare Analysts" width="80" height="40"/>](https://www.aphanalysts.org/) and run the bi-monthly [Ethics Group](https://www.aphanalysts.org/apha-events-and-training/). 
 
-I will be co-chairing Nottinghamshire Healthcare NHS Foundation Trust's Ethics Committe as it moves from being Covid-19 specific to having a wider remit. To help share the resources I've accumulated relating to medical and data ethics I've created a [website](https://ethics-committee-resources.netlify.app/) using the [Hugo Apéro theme](https://github.com/hugo-apero/apero).
+I chair Nottinghamshire Healthcare NHS Foundation Trust's Ethics Committe. To help share the resources I've accumulated relating to medical and data ethics I've created a [website](https://ethics-committee-resources.netlify.app/) using the [Hugo Apéro theme](https://github.com/hugo-apero/apero).
 
 <details>
   <summary><b><img src="img/noun_thinker_215431.png" alt="Philosophy" width="40" height="40"/> Other ethics groups I go to (click on arrow or words to extend) </b></summary>
   
-✨ [AphA Ethics group](https://www.aphanalysts.org/apha-events-and-training/)<br>
 ✨ [Data Ethics Group](https://github.com/very-good-science/data-ethics-club)
 <br>
 ✨ [Data Science Campus Ethics Society Reading Group](https://datasciencecampus.github.io/ethics_society_reading_group/) <br>
