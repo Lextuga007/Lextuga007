@@ -36,8 +36,6 @@ src="https://stackoverflow-badge.vercel.app/?userID=11788441" /></a>
 
 I'm a Senior Fellow of the [<img src="img/NHSRLogo.png" alt="NHS-R Community" width="80" height="40"/>](https://nhsrcommunity.com/) and I run the [introduction to R and R Studio training](https://nhsrcommunity.com/events/) for NHS and other public sector analysts every 3rd Wednesday of the month.
 
-I am the Non-Exec Director at [<img src="img/Apha-Logo.svg" alt="Association of Professional Healthcare Analysts" width="80" height="40"/>](https://www.aphanalysts.org/) and run the bi-monthly [Ethics Group](https://www.aphanalysts.org/apha-events-and-training/). 
-
 I chair Nottinghamshire Healthcare NHS Foundation Trust's Ethics Committe. To help share the resources I've accumulated relating to medical and data ethics I've created a [website](https://ethics-committee-resources.netlify.app/) using the [Hugo Apéro theme](https://github.com/hugo-apero/apero).
 
 <details>
