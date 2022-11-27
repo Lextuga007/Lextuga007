@@ -1,6 +1,6 @@
-<a href="https://github.com/CDU-data-science-team" target="_blank"><img alt="love"  src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github"/></a>
 <a href="https://philosopher-analyst.netlify.app/" target="_blank"><img alt="Blog" src=https://img.shields.io/badge/blog-philosopher--analyst-yellowgreen></a> 
-<a href="https://ethics-committee-resources.netlify.app/" target="_blank"><img alt="Ethics Resources" src=https://img.shields.io/badge/ethics-ethics--resources-green></a> 
+<a href="https://ethics-committee-resources.netlify.app/" target="_blank"><img alt="Ethics Resources" src=https://img.shields.io/badge/ethics-ethics--resources-green><a href="https://github.com/nhs-r-community" target="_blank"><img alt="love"  src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github"/></a>
+</a> 
 
 <br> 
 
@@ -10,8 +10,8 @@ href="https://hexitime.com/" target="_blank"><img alt="Hexitime"
 src="https://img.shields.io/static/v1?label=hexitime&message=skill--exchange&color=blue"/></a> <a 
 href="https://twitter.com/Letxuga007" target="_blank"><img alt="Twitter" 
 src="https://img.shields.io/twitter/follow/Letxuga007" /></a> <a 
-href="mailto:zoe.turner2@notthc.nhs.uk" target="_blank"><img alt="Mail"
-src="https://img.shields.io/badge/-zoe.turner2@notthc.nhs.uk-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zoe.turner2@notthc.nhs.uk"/></a> <a 
+href="mailto:zoe.turner3@nhs.net" target="_blank"><img alt="Mail"
+src="https://img.shields.io/badge/-zoe.turner3@nhs.net-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zoe.turner3@nhs.net"/></a> <a 
 href="https://stackoverflow.com/users/11788441/zo%c3%ab-turner" target="_blank"><img alt="StackOverflow" 
 src="https://stackoverflow-badge.vercel.app/?userID=11788441" /></a> 
 </p>
@@ -26,44 +26,28 @@ src="https://stackoverflow-badge.vercel.app/?userID=11788441" /></a>
 </br>
 
 
-## I'm currently working on:
+## I'm currently:
 
-<img src="img/noun_analysis_3166081.png" alt="Analysis" width="40" height="40"/> I've taken over responsibility for packages in my team that get data from the SQL server and get 'tidied' into R. This work currently cannot be shared publicly but [Milan Wiedemann](https://github.com/milanwiedemann), who built the concepts within the package, has written about it in the [blog](https://cdu-data-science-team.github.io/team-blog/posts/2021-08-06-nottshcverse/) on the team website.
+<img src="img/noun_analysis_3166081.png" alt="Analysis" width="40" height="40"/> a Senior Data Scientist for the [Midlands Decision Support Network](https://www.midlandsdecisionsupport.nhs.uk/) which hosts the [<img src="img/NHSRLogo.png" alt="NHS-R Community" width="80" height="40"/>](https://nhsrcommunity.com/). My role is concentrating on the training and development of analysts and data scientists in the region, introducing and using [RAP](https://analysisfunction.civilservice.gov.uk/policy-store/reproducible-analytical-pipelines-strategy/) and promoting openness and transparency of code and methodology.
 
-<img src="img/noun_presentation_82925.png" alt="Slides" width="40" height="40"/> I have now recoded all the [<img src="img/NHSRLogo.png" alt="NHS-R Community" width="80" height="40"/>](https://nhsrcommunity.com/) Introduction to R and R Studio [Slides](https://philosopher-analyst.netlify.app/collection/) from pdf to xaringan. I'm now looking to build a [learnr package](https://github.com/nhs-r-community/NHSRtraining) for this course and working through the [RStudio/Alison Hill's RMarkdown slides](https://github.com/rstudio-education/communicate-rmd-workshop) along with the [NHS-R Community workshop material](https://github.com/nhs-r-community/intro_rmd) and [YouTube video](https://www.youtube.com/watch?v=RaM6fgwMZIs) to deliver a [RMarkdown course](https://github.com/Lextuga007/rmd-workshop).
+<img src="img/noun_presentation_82925.png" alt="Slides" width="40" height="40"/> The [<img src="img/NHSRLogo.png" alt="NHS-R Community" width="80" height="40"/>](https://nhsrcommunity.com/) [Introduction to R and R Studio](https://philosopher-analyst.netlify.app/intro-r/) and [RMarkdown]( https://philosopher-analyst.netlify.app/rmd-workshop/) course materials are available through the [NHS-R Community GitHub](https://github.com/nhs-r-community) and hosted through [my website](https://philosopher-analyst.netlify.app/) for easy access to those whose organisations restrict GitHub.
 
 ## My other interests are...
 
-I'm a Senior Fellow of the [<img src="img/NHSRLogo.png" alt="NHS-R Community" width="80" height="40"/>](https://nhsrcommunity.com/) and I run the [introduction to R and R Studio training](https://nhsrcommunity.com/events/) for NHS and other public sector analysts every 3rd Wednesday of the month.
-
-I chair Nottinghamshire Healthcare NHS Foundation Trust's Ethics Committe. To help share the resources I've accumulated relating to medical and data ethics I've created a [website](https://ethics-committee-resources.netlify.app/) using the [Hugo Apéro theme](https://github.com/hugo-apero/apero).
+I'm a Senior Fellow of the [<img src="img/NHSRLogo.png" alt="NHS-R Community" width="80" height="40"/>](https://nhsrcommunity.com/).
 
 <details>
-  <summary><b><img src="img/noun_thinker_215431.png" alt="Philosophy" width="40" height="40"/> Other ethics groups I go to (click on arrow or words to extend) </b></summary>
+  <summary><b><img src="img/noun_thinker_215431.png" alt="Philosophy" width="40" height="40"/> Other interests... </b></summary>
   
-✨ [Data Ethics Group](https://github.com/very-good-science/data-ethics-club)
-<br>
-✨ [Data Science Campus Ethics Society Reading Group](https://datasciencecampus.github.io/ethics_society_reading_group/) <br>
-✨ Nottinghamshire Healthcare NHS Foundation Trust Ethics Committee - [resources](https://ethics-committee-resources.netlify.app/)  <br>
-✨ Nottingham University Hospitals Ethics Committee.
+✨ [Ethics Groups](https://ethics-committee-resources.netlify.app/collection/groups/)
 </details>
-
+✨ Supporting the Nottinghamshire Healthcare NHS Foundation Trust [CDU Data Science Team GitHub](https://github.com/CDU-data-science-team)
+✨ Supporting the [NHS-R Community GitHub](https://github.com/nhs-r-community)
 
 <!--
-## Other repos to which I've contributed to:
-
-[![NHSRdatasets](https://github-readme-stats.vercel.app/api/pin/?username=nhs-r-community&repo=NHSRdatasets)](https://github.com/nhs-r-community/NHSRdatasets)
-
-[![dataCompareR](https://github-readme-stats.vercel.app/api/pin/?username=capitalone&repo=dataCompareR)](https://github.com/capitalone/dataCompareR)
-
-[![Health Foundation Covid-19 Resources](https://github-readme-stats.vercel.app/api/pin/?username=HFAnalyticsLab&repo=COVID19_Resources)](https://github.com/HFAnalyticsLab/COVID19_Resources)
-
-
 Attributions: 
-analysis by Flatart from the Noun Project
 presentation by Garrett Knoll from the Noun Project
 thinker by Gilbert Bages from the Noun Project
-Venn Diagram by Josh Sorosky from the Noun Project
 
 Badges from:
 
