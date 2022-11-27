@@ -40,10 +40,10 @@ I'm a Senior Fellow of the [<img src="img/NHSRLogo.png" alt="NHS-R Community" wi
   <summary><b><img src="img/noun_thinker_215431.png" alt="Philosophy" width="40" height="40"/> Other interests... </b></summary>
   
 ✨ [Ethics Groups](https://ethics-committee-resources.netlify.app/collection/groups/)
-</details>
 ✨ Supporting the Nottinghamshire Healthcare NHS Foundation Trust [CDU Data Science Team GitHub](https://github.com/CDU-data-science-team)
 ✨ Supporting the [NHS-R Community GitHub](https://github.com/nhs-r-community)
 
+</details>
 <!--
 Attributions: 
 presentation by Garrett Knoll from the Noun Project
