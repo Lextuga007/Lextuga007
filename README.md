@@ -6,14 +6,11 @@
 
 <h2 align="center">Find me</h2>
 <p align="center"><a 
-href="https://hexitime.com/" target="_blank"><img alt="Hexitime"
-src="https://img.shields.io/static/v1?label=hexitime&message=skill--exchange&color=blue"/></a> <a 
-href="https://twitter.com/Letxuga007" target="_blank"><img alt="Twitter" 
-src="https://img.shields.io/twitter/follow/Letxuga007" /></a> <a 
-href="mailto:zoe.turner3@nhs.net" target="_blank"><img alt="Mail"
-src="https://img.shields.io/badge/-zoe.turner3@nhs.net-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zoe.turner3@nhs.net"/></a> <a 
-href="https://stackoverflow.com/users/11788441/zo%c3%ab-turner" target="_blank"><img alt="StackOverflow" 
-src="https://stackoverflow-badge.vercel.app/?userID=11788441" /></a> 
+href="https://hexitime.com/" target="_blank"><img alt="Hexitime" src="https://img.shields.io/static/v1?label=hexitime&message=skill--exchange&color=blue"/></a> <a 
+href="https://fosstodon.org/@Letxuga007"><img alt="Mastodon" src="https://img.shields.io/badge/mastodon-find--me-lightgrey"/></a> <a 
+href="https://twitter.com/Letxuga007" target="_blank"><img alt="Twitter" src="https://img.shields.io/twitter/follow/Letxuga007" /></a> <a 
+href="mailto:zoe.turner3@nhs.net" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/-zoe.turner3@nhs.net-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zoe.turner3@nhs.net"/></a> <a 
+href="https://stackoverflow.com/users/11788441/zo%c3%ab-turner" target="_blank"><img alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=11788441" /></a> 
 </p>
 
 <h2 align="center">Coding using</h2>
@@ -39,8 +36,8 @@ I'm a Senior Fellow of the [<img src="img/NHSRLogo.png" alt="NHS-R Community" wi
 <details>
   <summary><b><img src="img/noun_thinker_215431.png" alt="Philosophy" width="40" height="40"/> Other interests... </b></summary>
   
-✨ [Ethics Groups](https://ethics-committee-resources.netlify.app/collection/groups/)
-✨ Supporting the Nottinghamshire Healthcare NHS Foundation Trust [CDU Data Science Team GitHub](https://github.com/CDU-data-science-team)
+✨ [Ethics Groups](https://ethics-committee-resources.netlify.app/collection/groups/)  
+✨ Supporting the Nottinghamshire Healthcare NHS Foundation Trust [CDU Data Science Team GitHub](https://github.com/CDU-data-science-team)  
 ✨ Supporting the [NHS-R Community GitHub](https://github.com/nhs-r-community)
 
 </details>
